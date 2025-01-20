@@ -1,0 +1,26 @@
+.border{
+
+    border: 10px solid black;
+    width: 400px;
+    position: relative;
+    left: 40%;
+
+}
+.button{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position:relative;
+    top: 60px;
+    left: 20px;
+    
+
+}
+.button2{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position:relative;
+    top: 60px;
+    left: 270px;
+}
